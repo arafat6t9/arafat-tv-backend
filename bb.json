@@ -1,0 +1,956 @@
+[
+  {
+    "id": "1",
+    "groupTitle": "",
+    "name": "beINSports-fr1",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/16.ts"
+  },
+  {
+    "id": "2",
+    "groupTitle": "",
+    "name": "beINSports-fr2",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/17.ts"
+  },
+  {
+    "id": "3",
+    "groupTitle": "",
+    "name": "BEINSPORTS-FR3",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/566.ts"
+  },
+  {
+    "id": "4",
+    "groupTitle": "",
+    "name": "Alkas-1",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/73.ts"
+  },
+  {
+    "id": "5",
+    "groupTitle": "",
+    "name": "Alkas-2",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/405.ts"
+  },
+  {
+    "id": "6",
+    "groupTitle": "",
+    "name": "Alkas-3",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/104.ts"
+  },
+  {
+    "id": "7",
+    "groupTitle": "",
+    "name": "Alkas-4",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/315.ts"
+  },
+  {
+    "id": "8",
+    "groupTitle": "",
+    "name": "AD-Sports1",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/89.ts"
+  },
+  {
+    "id": "9",
+    "groupTitle": "",
+    "name": "AD-SPORTS2",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/114.ts"
+  },
+  {
+    "id": "10",
+    "groupTitle": "",
+    "name": "AD-Sports3",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/90.ts"
+  },
+  {
+    "id": "11",
+    "groupTitle": "",
+    "name": "DUBAISPORT1",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/648.ts"
+  },
+  {
+    "id": "12",
+    "groupTitle": "",
+    "name": "DubaiSport-3",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/646.ts"
+  },
+  {
+    "id": "13",
+    "groupTitle": "",
+    "name": "DUBAISPORT-4",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/647.ts"
+  },
+  {
+    "id": "14",
+    "groupTitle": "",
+    "name": "EUROSPORT-eng",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/357.ts"
+  },
+  {
+    "id": "15",
+    "groupTitle": "",
+    "name": "MBCProSports1",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/40.ts"
+  },
+  {
+    "id": "16",
+    "groupTitle": "",
+    "name": "MBCProSports2",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/39.ts"
+  },
+  {
+    "id": "17",
+    "groupTitle": "",
+    "name": "osn-yahala-hd",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/383.ts"
+  },
+  {
+    "id": "18",
+    "groupTitle": "",
+    "name": "OSN-MBC+DRAMA",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/21.ts"
+  },
+  {
+    "id": "19",
+    "groupTitle": "",
+    "name": "OSN-Yahala-Shabab",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/24.ts"
+  },
+  {
+    "id": "20",
+    "groupTitle": "",
+    "name": "OSN-AlYoum",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/384.ts"
+  },
+  {
+    "id": "21",
+    "groupTitle": "",
+    "name": "OSN-CINEMA1",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/153.ts"
+  },
+  {
+    "id": "22",
+    "groupTitle": "",
+    "name": "OSN_Cinma_2",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/403.ts"
+  },
+  {
+    "id": "23",
+    "groupTitle": "",
+    "name": "OSN-MOVIES-ACTION",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/26.ts"
+  },
+  {
+    "id": "24",
+    "groupTitle": "",
+    "name": "OSN-MOVIES-ACTION+2",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/18.ts"
+  },
+  {
+    "id": "25",
+    "groupTitle": "",
+    "name": "OSN-MOVIES-HD",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/25.ts"
+  },
+  {
+    "id": "26",
+    "groupTitle": "",
+    "name": "OSN-MOVIES-DRAMA",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/19.ts"
+  },
+  {
+    "id": "27",
+    "groupTitle": "",
+    "name": "OSN-MOVIES-premier",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/323.ts"
+  },
+  {
+    "id": "28",
+    "groupTitle": "",
+    "name": "OSN-MOVIES-premier2",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/412.ts"
+  },
+  {
+    "id": "29",
+    "groupTitle": "",
+    "name": "OSN-Movie-FESTIVAL",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/27.ts"
+  },
+  {
+    "id": "30",
+    "groupTitle": "",
+    "name": "OSN-MOVIES-Comedy",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/292.ts"
+  },
+  {
+    "id": "31",
+    "groupTitle": "",
+    "name": "OSN-StarMovie",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/454.ts"
+  },
+  {
+    "id": "32",
+    "groupTitle": "",
+    "name": "OSN_Starworld",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/151.ts"
+  },
+  {
+    "id": "33",
+    "groupTitle": "",
+    "name": "OSN-BoxOffice",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/399.ts"
+  },
+  {
+    "id": "34",
+    "groupTitle": "",
+    "name": "OSN-BoxOffice1",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/109.ts"
+  },
+  {
+    "id": "35",
+    "groupTitle": "",
+    "name": "OSN-FIGHT-HD",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/625.ts"
+  },
+  {
+    "id": "36",
+    "groupTitle": "",
+    "name": "Bein-Movies1",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/387.ts"
+  },
+  {
+    "id": "37",
+    "groupTitle": "",
+    "name": "Bein-Movies2",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/343.ts"
+  },
+  {
+    "id": "38",
+    "groupTitle": "",
+    "name": "Bein-Movies3",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/534.ts"
+  },
+  {
+    "id": "39",
+    "groupTitle": "",
+    "name": "OSN-Disney",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/404.ts"
+  },
+  {
+    "id": "40",
+    "groupTitle": "",
+    "name": "OSN-movie-kids",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/624.ts"
+  },
+  {
+    "id": "41",
+    "groupTitle": "",
+    "name": "OSN-NATGEOWILD",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/626.ts"
+  },
+  {
+    "id": "42",
+    "groupTitle": "",
+    "name": "Nat-Geo-AD",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/82.ts"
+  },
+  {
+    "id": "43",
+    "groupTitle": "",
+    "name": "Animal-Planet",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/91.ts"
+  },
+  {
+    "id": "44",
+    "groupTitle": "",
+    "name": "DISCOVERY-CH",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/124.ts"
+  },
+  {
+    "id": "45",
+    "groupTitle": "",
+    "name": "ART-AFLAM1",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/33.ts"
+  },
+  {
+    "id": "46",
+    "groupTitle": "",
+    "name": "ART-AFLAM2",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/32.ts"
+  },
+  {
+    "id": "47",
+    "groupTitle": "",
+    "name": "ART-CINEMA",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/76.ts"
+  },
+  {
+    "id": "48",
+    "groupTitle": "",
+    "name": "ART-Hekayat1",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/35.ts"
+  },
+  {
+    "id": "49",
+    "groupTitle": "",
+    "name": "ART-Hekayat2",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/34.ts"
+  },
+  {
+    "id": "50",
+    "groupTitle": "",
+    "name": "EUROSPORT-1",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/149.ts"
+  },
+  {
+    "id": "51",
+    "groupTitle": "",
+    "name": "EUROSPORT-FR",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/150.ts"
+  },
+  {
+    "id": "52",
+    "groupTitle": "",
+    "name": "Sharjah-Sport",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/127.ts"
+  },
+  {
+    "id": "53",
+    "groupTitle": "",
+    "name": "Sharjah",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/126.ts"
+  },
+  {
+    "id": "54",
+    "groupTitle": "",
+    "name": "Palestine",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/141.ts"
+  },
+  {
+    "id": "55",
+    "groupTitle": "",
+    "name": "PalestineToday",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/459.ts"
+  },
+  {
+    "id": "56",
+    "groupTitle": "",
+    "name": "AL-NASS",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/147.ts"
+  },
+  {
+    "id": "57",
+    "groupTitle": "",
+    "name": "Abu_Dhabi",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/145.ts"
+  },
+  {
+    "id": "58",
+    "groupTitle": "",
+    "name": "TRT-arabic",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/390.ts"
+  },
+  {
+    "id": "59",
+    "groupTitle": "",
+    "name": "Zaytoona",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/393.ts"
+  },
+  {
+    "id": "60",
+    "groupTitle": "",
+    "name": "MTV-Libanon",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/117.ts"
+  },
+  {
+    "id": "61",
+    "groupTitle": "",
+    "name": "Qatar",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/439.ts"
+  },
+  {
+    "id": "62",
+    "groupTitle": "",
+    "name": "CBC-tv",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/106.ts"
+  },
+  {
+    "id": "63",
+    "groupTitle": "",
+    "name": "TNNTunisia",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/112.ts"
+  },
+  {
+    "id": "64",
+    "groupTitle": "",
+    "name": "Cima",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/118.ts"
+  },
+  {
+    "id": "65",
+    "groupTitle": "",
+    "name": "Future",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/120.ts"
+  },
+  {
+    "id": "66",
+    "groupTitle": "",
+    "name": "OTV-Lebanon",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/92.ts"
+  },
+  {
+    "id": "67",
+    "groupTitle": "",
+    "name": "Syria-ikhbaria",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/102.ts"
+  },
+  {
+    "id": "68",
+    "groupTitle": "",
+    "name": "Syria-Aloula",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/101.ts"
+  },
+  {
+    "id": "69",
+    "groupTitle": "",
+    "name": "Syria",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/99.ts"
+  },
+  {
+    "id": "70",
+    "groupTitle": "",
+    "name": "Nile-Comedy",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/94.ts"
+  },
+  {
+    "id": "71",
+    "groupTitle": "",
+    "name": "Nile-cinema",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/95.ts"
+  },
+  {
+    "id": "72",
+    "groupTitle": "",
+    "name": "NILE-DRAMA",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/410.ts"
+  },
+  {
+    "id": "73",
+    "groupTitle": "",
+    "name": "Syria-Education",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/65.ts"
+  },
+  {
+    "id": "74",
+    "groupTitle": "",
+    "name": "ZEE-Aflam",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/49.ts"
+  },
+  {
+    "id": "75",
+    "groupTitle": "",
+    "name": "Zee-Alwan",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/50.ts"
+  },
+  {
+    "id": "76",
+    "groupTitle": "",
+    "name": "SyrianDrama",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/51.ts"
+  },
+  {
+    "id": "77",
+    "groupTitle": "",
+    "name": "Baraem",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/54.ts"
+  },
+  {
+    "id": "78",
+    "groupTitle": "",
+    "name": "Rotana-Classic",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/56.ts"
+  },
+  {
+    "id": "79",
+    "groupTitle": "",
+    "name": "Rotana-Cinema",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/57.ts"
+  },
+  {
+    "id": "80",
+    "groupTitle": "",
+    "name": "Rotana",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/58.ts"
+  },
+  {
+    "id": "81",
+    "groupTitle": "",
+    "name": "OOD",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/42.ts"
+  },
+  {
+    "id": "82",
+    "groupTitle": "",
+    "name": "MBC-1",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/48.ts"
+  },
+  {
+    "id": "83",
+    "groupTitle": "",
+    "name": "MBC-2",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/47.ts"
+  },
+  {
+    "id": "84",
+    "groupTitle": "",
+    "name": "MBC-3",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/46.ts"
+  },
+  {
+    "id": "85",
+    "groupTitle": "",
+    "name": "MBC-4",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/45.ts"
+  },
+  {
+    "id": "86",
+    "groupTitle": "",
+    "name": "MBC-MAX",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/43.ts"
+  },
+  {
+    "id": "87",
+    "groupTitle": "",
+    "name": "MBC-DRAMA",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/44.ts"
+  },
+  {
+    "id": "88",
+    "groupTitle": "",
+    "name": "MBC-ACTION",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/241.ts"
+  },
+  {
+    "id": "89",
+    "groupTitle": "",
+    "name": "LBC",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/61.ts"
+  },
+  {
+    "id": "90",
+    "groupTitle": "",
+    "name": "Iraqiya",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/111.ts"
+  },
+  {
+    "id": "91",
+    "groupTitle": "",
+    "name": "Baghdad",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/435.ts"
+  },
+  {
+    "id": "92",
+    "groupTitle": "",
+    "name": "Iraqia-Sport",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/148.ts"
+  },
+  {
+    "id": "93",
+    "groupTitle": "",
+    "name": "AlSharqiya",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/612.ts"
+  },
+  {
+    "id": "94",
+    "groupTitle": "",
+    "name": "Sharqiya-News",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/396.ts"
+  },
+  {
+    "id": "95",
+    "groupTitle": "",
+    "name": "Dubai-One",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/63.ts"
+  },
+  {
+    "id": "96",
+    "groupTitle": "",
+    "name": "DUBAI",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/64.ts"
+  },
+  {
+    "id": "97",
+    "groupTitle": "",
+    "name": "Cbc-drama",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/67.ts"
+  },
+  {
+    "id": "98",
+    "groupTitle": "",
+    "name": "alarabiya",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/71.ts"
+  },
+  {
+    "id": "99",
+    "groupTitle": "",
+    "name": "AL-MANAR",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/74.ts"
+  },
+  {
+    "id": "100",
+    "groupTitle": "",
+    "name": "ROYA",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/81.ts"
+  },
+  {
+    "id": "101",
+    "groupTitle": "",
+    "name": "Jordan-tv",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/83.ts"
+  },
+  {
+    "id": "102",
+    "groupTitle": "",
+    "name": "Sama-Jordan",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/445.ts"
+  },
+  {
+    "id": "103",
+    "groupTitle": "",
+    "name": "Jordan-Sport",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/346.ts"
+  },
+  {
+    "id": "104",
+    "groupTitle": "",
+    "name": "ANN-news",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/155.ts"
+  },
+  {
+    "id": "105",
+    "groupTitle": "",
+    "name": "AL-JAZEERA",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/87.ts"
+  },
+  {
+    "id": "106",
+    "groupTitle": "",
+    "name": "aljazeera_mubasher",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/88.ts"
+  },
+  {
+    "id": "107",
+    "groupTitle": "",
+    "name": "NBN",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/140.ts"
+  },
+  {
+    "id": "108",
+    "groupTitle": "",
+    "name": "BBC-Arabia",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/100.ts"
+  },
+  {
+    "id": "109",
+    "groupTitle": "",
+    "name": "Saudi-Quran",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/446.ts"
+  },
+  {
+    "id": "110",
+    "groupTitle": "",
+    "name": "Al-Hadath",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/72.ts"
+  },
+  {
+    "id": "111",
+    "groupTitle": "",
+    "name": "Oman",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/488.ts"
+  },
+  {
+    "id": "112",
+    "groupTitle": "",
+    "name": "MTV",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/486.ts"
+  },
+  {
+    "id": "113",
+    "groupTitle": "",
+    "name": "Quran-TV",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/628.ts"
+  },
+  {
+    "id": "114",
+    "groupTitle": "",
+    "name": "Quran-Alfateh",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/629.ts"
+  },
+  {
+    "id": "115",
+    "groupTitle": "",
+    "name": "Mecca",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/107.ts"
+  },
+  {
+    "id": "116",
+    "groupTitle": "",
+    "name": "IQRAA-TV",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/115.ts"
+  },
+  {
+    "id": "117",
+    "groupTitle": "",
+    "name": "Al-Majd",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/444.ts"
+  },
+  {
+    "id": "118",
+    "groupTitle": "",
+    "name": "Almajd-Quran",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/425.ts"
+  },
+  {
+    "id": "119",
+    "groupTitle": "",
+    "name": "MAJD-KIDS",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/421.ts"
+  },
+  {
+    "id": "120",
+    "groupTitle": "",
+    "name": "Fatafeat",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/483.ts"
+  },
+  {
+    "id": "121",
+    "groupTitle": "",
+    "name": "Toyor-AlJanah",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/437.ts"
+  },
+  {
+    "id": "122",
+    "groupTitle": "",
+    "name": "Jeem",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/119.ts"
+  },
+  {
+    "id": "123",
+    "groupTitle": "",
+    "name": "Spacetoon",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/80.ts"
+  },
+  {
+    "id": "124",
+    "groupTitle": "",
+    "name": "CN-ARABIA",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/68.ts"
+  },
+  {
+    "id": "125",
+    "groupTitle": "",
+    "name": "AJYAL",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/146.ts"
+  },
+  {
+    "id": "126",
+    "groupTitle": "",
+    "name": "LCD-Aflam",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/440.ts"
+  },
+  {
+    "id": "127",
+    "groupTitle": "",
+    "name": "Russia-Al-Yaum",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/450.ts"
+  },
+  {
+    "id": "128",
+    "groupTitle": "",
+    "name": "ADTV",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/419.ts"
+  },
+  {
+    "id": "129",
+    "groupTitle": "",
+    "name": "Russia-Today",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/442.ts"
+  },
+  {
+    "id": "130",
+    "groupTitle": "",
+    "name": "BeinSport-Sd1",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/293.ts"
+  },
+  {
+    "id": "131",
+    "groupTitle": "",
+    "name": "BeinSport-Sd2",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/294.ts"
+  },
+  {
+    "id": "132",
+    "groupTitle": "",
+    "name": "BeinSport-Sd3",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/295.ts"
+  },
+  {
+    "id": "133",
+    "groupTitle": "",
+    "name": "BeinSport-Sd4",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/296.ts"
+  },
+  {
+    "id": "134",
+    "groupTitle": "",
+    "name": "BeinSport-Sd5",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/297.ts"
+  },
+  {
+    "id": "135",
+    "groupTitle": "",
+    "name": "BeinSport-Sd6",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/298.ts"
+  },
+  {
+    "id": "136",
+    "groupTitle": "",
+    "name": "BeinSport-Sd7",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/299.ts"
+  },
+  {
+    "id": "137",
+    "groupTitle": "",
+    "name": "BeinSport-Sd8",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/300.ts"
+  },
+  {
+    "id": "138",
+    "groupTitle": "",
+    "name": "BeinSport-Sd9",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/301.ts"
+  },
+  {
+    "id": "139",
+    "groupTitle": "",
+    "name": "BeinSport-Sd10",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/302.ts"
+  },
+  {
+    "id": "140",
+    "groupTitle": "",
+    "name": "EN:BeinSport-11",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/575.ts"
+  },
+  {
+    "id": "141",
+    "groupTitle": "",
+    "name": "EN:BeinSport-12",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/577.ts"
+  },
+  {
+    "id": "142",
+    "groupTitle": "",
+    "name": "FR:BEINSPORT-13",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/632.ts"
+  },
+  {
+    "id": "143",
+    "groupTitle": "",
+    "name": "FR:BEINSPORT-14",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/633.ts"
+  },
+  {
+    "id": "144",
+    "groupTitle": "",
+    "name": "FR:BEINSPORT-15",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/634.ts"
+  },
+  {
+    "id": "145",
+    "groupTitle": "",
+    "name": "FR:BEINSPORT-16",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/635.ts"
+  },
+  {
+    "id": "146",
+    "groupTitle": "",
+    "name": "Sky-Atlantic",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/441.ts"
+  },
+  {
+    "id": "147",
+    "groupTitle": "",
+    "name": "SkySport-1",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/443.ts"
+  },
+  {
+    "id": "148",
+    "groupTitle": "",
+    "name": "KANAL7-HD",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/422.ts"
+  },
+  {
+    "id": "149",
+    "groupTitle": "",
+    "name": "KIDS-MOVIE1",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/627.ts"
+  },
+  {
+    "id": "150",
+    "groupTitle": "",
+    "name": "KIDS-MOVIE2",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/639.ts"
+  },
+  {
+    "id": "151",
+    "groupTitle": "",
+    "name": "KIDS-MOVIE3",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/640.ts"
+  },
+  {
+    "id": "152",
+    "groupTitle": "",
+    "name": "KIDS-MOVIE4",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/641.ts"
+  },
+  {
+    "id": "153",
+    "groupTitle": "",
+    "name": "-1",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/592.ts"
+  },
+  {
+    "id": "154",
+    "groupTitle": "",
+    "name": "-2",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/424.ts"
+  },
+  {
+    "id": "155",
+    "groupTitle": "",
+    "name": "-3",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/423.ts"
+  },
+  {
+    "id": "156",
+    "groupTitle": "",
+    "name": "-4",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/608.ts"
+  },
+  {
+    "id": "157",
+    "groupTitle": "",
+    "name": "-5",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/609.ts"
+  },
+  {
+    "id": "158",
+    "groupTitle": "",
+    "name": "-6",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/610.ts"
+  },
+  {
+    "id": "159",
+    "groupTitle": "",
+    "name": "-7",
+    "url": "http://iptv.am000.tv:8000/live/add17/add17/611.ts"
+  }
+]

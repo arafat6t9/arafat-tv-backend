@@ -1,475 +1,469 @@
 [
   {
     "id": "1",
-    "groupTitle": "",
+    "category": "FIFA 2026",
     "name": "FIFA World Cup 2026",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8"
   },
   {
     "id": "2",
-    "groupTitle": "",
+    "category": "FIFA 2026",
     "name": "FIFA World Cup 2026",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=2202800.m3u8"
   },
   {
     "id": "3",
-    "groupTitle": "",
+    "category": "FIFA 2026",
     "name": "FIFA World Cup 2026 🇦🇷[coming]",
     "url": "http://cdn.tv-rds.workers.dev/TYCSPT.m3u8"
   },
   {
     "id": "4",
-    "groupTitle": "",
+    "category": "FIFA 2026",
     "name": "FIFA World Cup 2026 🇧🇷[coming]",
     "url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8"
   },
   {
     "id": "5",
-    "groupTitle": "",
+    "category": "FIFA 2026",
     "name": "FIFA World Cup 2026 🇮🇳[coming]",
     "url": "http://66.102.126.10:8000/play/a076/index.m3u8"
   },
   {
     "id": "6",
-    "groupTitle": "",
+    "category": "FIFA 2026",
     "name": "FIFA World Cup 2026 🇮🇳[coming]",
     "url": "http://66.102.126.10:8000/play/a022/index.m3u8"
   },
   {
     "id": "7",
-    "groupTitle": "",
+    "category": "",
     "name": "#http://66.102.126.10:8000/play/a076/index.m3u8",
     "url": "http://103.204.43.87:8080/live/1/1/266.m3u8"
   },
   {
     "id": "8",
-    "groupTitle": "",
+    "category": "",
     "name": "#http://66.102.126.10:8000/play/a022/index.m3u8",
     "url": "http://103.204.43.87:8080/live/1/1/264.m3u8"
   },
   {
     "id": "9",
-    "groupTitle": "",
+    "category": "FIFA 2026",
     "name": "FIFA World Cup 2026 🇵🇰[coming]",
     "url": "http://103.204.43.87:8080/live/1/1/313.m3u8"
   },
   {
     "id": "10",
-    "groupTitle": "",
+    "category": "FIFA 2026",
     "name": "FIFA World Cup 2026 [coming]",
     "url": "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8"
   },
   {
     "id": "11",
-    "groupTitle": "",
+    "category": "Bangla News",
     "name": "Somoy TV",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8"
   },
   {
     "id": "12",
-    "groupTitle": "",
+    "category": "Bangla News",
     "name": "News 24 HD",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8"
   },
   {
     "id": "13",
-    "groupTitle": "",
+    "category": "Bangla News",
     "name": "Star News",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8"
   },
   {
     "id": "14",
-    "groupTitle": "",
+    "category": "Bangla News",
     "name": "SATV HD",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8"
   },
   {
     "id": "15",
-    "groupTitle": "",
+    "category": "Bangla", 
     "name": "Channel 9 HD",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8"
   },
   {
     "id": "16",
-    "groupTitle": "",
+    "category": "Bangla News",
     "name": "DBC News",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728.m3u8"
   },
   {
     "id": "17",
-    "groupTitle": "",
+    "category": "Bangla",
     "name": "Ekattor TV",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8"
   },
   {
     "id": "18",
-    "groupTitle": "",
+    "category": "Bangla",
     "name": "Channel 24",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8"
   },
   {
     "id": "19",
-    "groupTitle": "",
+    "category": "Bangla News",
     "name": "Independent TV",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8"
   },
   {
     "id": "20",
-    "groupTitle": "",
+    "category": "Bangla News",
     "name": "Jamuna TV",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8"
   },
   {
     "id": "21",
-    "groupTitle": "",
+    "category": "Bangla News",
     "name": "ATN News",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8"
   },
   {
     "id": "22",
-    "groupTitle": "",
-    "name": "#EXTVLCOPT:http-user-agent=Mozilla/5.0",
+    "category": "Bangla",
+    "name": "ATN BD",
     "url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/"
   },
   {
     "id": "23",
-    "groupTitle": "",
-    "name": "#EXTVLCOPT:http-user-agent=Mozilla/5.0",
+    "category": "Bangla News",
+    "name": "Ananda TV",
     "url": "https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/"
   },
   {
     "id": "24",
-    "groupTitle": "",
+    "category": "Bangla",
     "name": "NTV",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8"
   },
   {
     "id": "25",
-    "groupTitle": "",
+    "category": "Bangla",
     "name": "BanglaVision",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8"
   },
   {
     "id": "26",
-    "groupTitle": "",
+    "category": "Bangla",
     "name": "Asian TV",
     "url": "https://mtlivestream.com/hls/asian/ytlive/index.m3u8"
   },
   {
     "id": "27",
-    "groupTitle": "",
+    "category": "Bangla",
     "name": "Ekushey TV",
     "url": "http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8"
   },
   {
     "id": "28",
-    "groupTitle": "",
+    "category": "Bangla",
     "name": "Channel I",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8"
   },
   {
     "id": "29",
-    "groupTitle": "",
+    "category": "Bangla",
     "name": "Deepto TV",
     "url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8"
   },
   {
     "id": "30",
-    "groupTitle": "",
+    "category": "Bangla",
     "name": "Boishakhi TV",
     "url": "https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8"
   },
   {
     "id": "31",
-    "groupTitle": "",
+    "category": "Bangla",
     "name": "Bijoy TV",
     "url": "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/581.ts"
   },
   {
     "id": "32",
-    "groupTitle": "",
+    "category": "Bangla",
     "name": "Jago News 24",
     "url": "https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8"
   },
   {
     "id": "33",
-    "groupTitle": "",
+    "category": "Bangla",
     "name": "MAASRANGA HD",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8"
   },
   {
     "id": "34",
-    "groupTitle": "",
-    "name": "#https://bozztv.com/rongo/rongo-DeshTV/index.m3u8",
+    "category": "Bangla",
+    "name": "Desh TV",
     "url": "https://bozztv.com/rongo/rongo-DeshTV/tracks-v1a1/mono.m3u8"
   },
   {
     "id": "35",
-    "groupTitle": "",
+    "category": "Bangla",
     "name": "Bangla TV",
     "url": "http://116.204.149.16/banglatv/index.m3u8"
   },
   {
     "id": "36",
-    "groupTitle": "",
-    "name": "#http://tvn3.chowdhury-shaheb.com/rtv/index.m3u8",
+    "category": "Bangla",
+    "name": "RTV",
     "url": "http://116.204.149.16/rtvhd/index.m3u8"
   },
   {
     "id": "37",
-    "groupTitle": "",
+    "category": "Bangla",
     "name": "Green TV",
     "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8"
   },
   {
     "id": "38",
-    "groupTitle": "",
+    "category": "Kids",
     "name": "Duronto",
     "url": "http://103.204.43.87:8080/live/1/1/290.m3u8"
   },
   {
     "id": "39",
-    "groupTitle": "",
+    "category": "Kids",
     "name": "NICK BANGLA",
     "url": "http://103.204.43.87:8080/live/1/1/275.m3u8"
   },
   {
     "id": "40",
-    "groupTitle": "",
+    "category": "Bangla",
     "name": "Sonic Bangla",
     "url": "http://103.204.43.87:8080/live/1/1/274.m3u8"
   },
   {
     "id": "41",
-    "groupTitle": "",
+    "category": "Bangla",
     "name": "SRK TV",
     "url": "https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8"
   },
   {
     "id": "42",
-    "groupTitle": "",
+    "category": "Indian",
     "name": "RONGEEN TV",
     "url": "https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8"
   },
   {
     "id": "43",
-    "groupTitle": "",
+    "category": "Islamic",
     "name": "Makka🔴Live",
     "url": "http://m.live.net.sa:1935/live/quran/playlist.m3u8"
   },
   {
     "id": "44",
-    "groupTitle": "",
+    "category": "Islamic",
     "name": "Madina 🔴Live",
     "url": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8"
   },
   {
     "id": "45",
-    "groupTitle": "",
+    "category": "Islamic",
     "name": "Madani TV Bangla",
     "url": "http://103.204.43.87:8080/live/1/1/304.m3u8"
   },
   {
     "id": "46",
-    "groupTitle": "",
+    "category": "Bangla",
     "name": "Enter 10 Bangla",
     "url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8"
   },
   {
     "id": "47",
-    "groupTitle": "",
-    "name": "#http://stvlive.net:8080/sonyaath/index.m3u8",
+    "category": "Indian",
+    "name": "#Sony Aath HD",
     "url": "http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8"
   },
   {
     "id": "48",
-    "groupTitle": "",
+    "category": "Indian",
     "name": "Sony Max HD",
     "url": "http://198.195.239.50:8095/SonyMAX/tracks-v1a1/mono.m3u8"
   },
   {
     "id": "49",
-    "groupTitle": "",
+    "category": "Indian",
     "name": "SONY MAX 2",
     "url": "http://maxotts.maxdigitaltv.com/x-media/C111/master.m3u8"
   },
   {
     "id": "50",
-    "groupTitle": "",
+    "category": "Bangla",
     "name": "Gazi TV",
     "url": "https://tvsen1.aynaott.com/Ravc7gPCZpxk/index.m3u8"
   },
   {
     "id": "51",
-    "groupTitle": "",
+    "category": "Bangla",
     "name": "NAGORIK HD",
     "url": "http://198.195.239.50:8095/nagorik/index.m3u8"
   },
   {
     "id": "52",
-    "groupTitle": "",
+    "category": "Sports",
     "name": "T Sports HD",
     "url": "http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8"
   },
   {
     "id": "53",
-    "groupTitle": "",
+    "category": "Sports",
     "name": "A Sports HD",
     "url": "http://103.204.43.87:8080/live/1/1/309.m3u8"
   },
   {
     "id": "54",
-    "groupTitle": "",
+    "category": "Sports",
     "name": "PTV Sports",
     "url": "http://103.204.43.87:8080/live/1/1/313.m3u8"
   },
   {
     "id": "55",
-    "groupTitle": "",
+    "category": "Sports",
     "name": "Willow",
     "url": "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/517.ts"
   },
   {
     "id": "56",
-    "groupTitle": "",
+    "category": "Sports",
     "name": "FOX SPORTS 501 HD",
     "url": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/19146/index.m3u8"
   },
   {
-    "id": "56",
-    "groupTitle": "",
-    "name": "FOX SPORTS 501 HD",
-    "url": "‎"
-  },
-  {
     "id": "58",
-    "groupTitle": "",
+    "category": "Sports",
     "name": "SKY SPORTS CRICKET",
     "url": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/9258/index.m3u8"
   },
   {
     "id": "59",
-    "groupTitle": "",
+    "category": "Sports",
     "name": "SONY SPORTS 1HD",
     "url": "http://stalker.hakunamata.workers.dev/play/1101/index.m3u8"
   },
   {
     "id": "60",
-    "groupTitle": "",
+    "category": "Sports",
     "name": "SONY SPORTS 2 HD 🅰️",
     "url": "http://103.204.43.87:8080/live/1/1/304.m3u8"
   },
   {
     "id": "61",
-    "groupTitle": "",
+    "category": "Sports",
     "name": "SONY SPORTS 2 HD 🅱️",
     "url": "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/513.ts"
   },
   {
     "id": "62",
-    "groupTitle": "",
+    "category": "Sports",
     "name": "SONY SPORTS 5 HD",
     "url": "http://66.102.126.10:8000/play/a010/index.m3u8"
   },
   {
     "id": "63",
-    "groupTitle": "",
+    "category": "Sports",
     "name": "Star Sports 1 HD",
     "url": "http://103.204.43.87:8080/live/1/1/258.m3u8"
   },
   {
     "id": "64",
-    "groupTitle": "",
+    "category": "Sports",
     "name": "Star Sports 2 HD",
     "url": "http://103.204.43.87:8080/live/1/1/255.m3u8"
   },
   {
     "id": "65",
-    "groupTitle": "",
+    "category": "Sports",
     "name": "STAR SPORTS SELECT 1 HD",
     "url": "http://103.204.43.87:8080/live/1/1/244.m3u8"
   },
   {
     "id": "66",
-    "groupTitle": "",
+    "category": "Sports",
     "name": "STAR SPORTS SELECT 2 HD",
     "url": "http://103.204.43.87:8080/live/1/1/243.m3u8"
   },
   {
     "id": "67",
-    "groupTitle": "",
+    "category": "Bangla",
     "name": "Sangeet Bangla",
     "url": "https://cdn-4.pishow.tv/live/1143/master.m3u8"
   },
   {
     "id": "68",
-    "groupTitle": "",
+    "category": "",
     "name": "#https://cdn-2.pishow.tv/live/226/master.m3u8",
     "url": "http://103.180.212.191:3500/live/250.m3u8"
   },
   {
     "id": "69",
-    "groupTitle": "",
+    "category": "Documentary",
     "name": "Discovery HD Bengali",
     "url": "http://103.159.180.34:5001/live/3428.m3u8"
   },
   {
     "id": "70",
-    "groupTitle": "",
+    "category": "Documentary",
     "name": "Discovery Bengali",
     "url": "http://103.159.180.34:5001/live/573.m3u8"
   },
   {
     "id": "71",
-    "groupTitle": "",
+    "category": "Sports",
     "name": "STABLE-SPORTS TV",
     "url": "http://198.195.239.50:8095/StarSports2/tracks-v1a1/mono.m3u8"
   },
   {
     "id": "72",
-    "groupTitle": "",
+    "category": "",
     "name": "Toffee {premium}",
     "url": "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/522.ts"
   },
   {
     "id": "73",
-    "groupTitle": "",
+    "category": "Movies",
     "name": "Prince [2026]",
     "url": "https://yellow-flower-41fc.cinepixserver00.workers.dev/1:/22-5-26/ottboxbd.COM%20-%20Prince%20Once%20Upon%20a%20Time%20in%20Dhaka%202026%20Bengali%20ORG%201080p%20WEB-DL%20x264.mkv"
   },
   {
     "id": "74",
-    "groupTitle": "",
+    "category": "Movies",
     "name": "Domm [2026]",
     "url": "https://yellow-flower-41fc.cinepixserver00.workers.dev/1:/21-5-26/Domm%202026%20Bengali%20(ORG)%201080p%20WEB-DL%20x264%20ESubs.mkv"
   },
   {
     "id": "75",
-    "groupTitle": "",
+    "category": "Movies",
     "name": "Rakkhosh [2026]",
     "url": "http://103.203.93.4/Dhallywood%20(Bangladeshi)/2026/RAKKHOSH%20Bangla%20Movie%20SIAM/Rakkhosh%20(2026)%20Bengali%20720p%20HD-Camrip.mp4"
   },
   {
     "id": "76",
-    "groupTitle": "",
+    "category": "Movies",
     "name": "Bonolota Express [2026]",
     "url": "http://103.203.93.4/Dhallywood%20(Bangladeshi)/2026/Bonolota%20Express%20(2026)/Bonolota%20Express%20(2026)%20Bengali%20Amazon%20WEB-DL%20H264%20AAC%20720p.mkv"
   },
   {
     "id": "77",
-    "groupTitle": "",
+    "category": "Sports",
     "name": "STABLE-SPORTS TV",
     "url": "http://198.195.239.50:8095/StarSports2/tracks-v1a1/mono.m3u8"
   },
   {
     "id": "78",
-    "groupTitle": "",
+    "category": "Indian",
     "name": "Colors Bangla HD",
     "url": "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/532.ts"
   },
   {
     "id": "79",
-    "groupTitle": "",
+    "category": "Indian",
     "name": "ZEE Bangla HD",
     "url": "http://main.epgmaker.com/live/y49sz6KMQs/6115263489/536.ts"
   }
